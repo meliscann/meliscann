@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Melis Can!
 
-I am an aspiring **AI Engineer** with a deep passion for **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and especially **Generative AI**. My focus is on building intelligent systems that learn, reason, and generate—combining theory with practical development.
+I am an **Software Engineering student** with a deep passion for **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and especially **Generative AI**. My focus is on building intelligent systems that learn, reason, and generate—combining theory with practical development.
 
 ## 🤖 What I'm Passionate About
 
